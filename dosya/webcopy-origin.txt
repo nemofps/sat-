@@ -1,0 +1,372 @@
+Uri: https://premium.leaderos.com.tr/
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\index.htm
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/extras/favicon.png
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\extras\favicon.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\ajax\libs\twitter-bootstrap\4.5.2\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/8.11.8/sweetalert2.min.css
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\ajax\libs\limonte-sweetalert2\8.11.8\sweetalert2.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\ajax\libs\select2\4.0.13\css\select2.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/@ttskch/select2-bootstrap4-theme@1.4.0/dist/select2-bootstrap4.min.css
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\npm\@ttskch\select2-bootstrap4-theme@1.4.0\dist\select2-bootstrap4.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/css/themes/flat/main.min.css?v=529
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\css\themes\flat\main.min.css
+Content Type: text/css
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/css/themes/flat/responsive.min.css?v=529
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\css\themes\flat\responsive.min.css
+Content Type: text/css
+
+Uri: https://premium.leaderos.com.tr/magaza
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\magaza.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/oyun
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\oyun.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/giris-yap
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\giris-yap.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/kayit-ol
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\kayit-ol.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/haber/3/lorem-ipsum-dolor-sit-amet
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\haber\3\lorem-ipsum-dolor-sit-amet.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/kategori/guncelleme
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\kategori\guncelleme.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/haber/2/lorem-ipsum-dolor-sit-amet
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\haber\2\lorem-ipsum-dolor-sit-amet.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/haber/1/lorem-ipsum-dolor-sit-amet
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\haber\1\lorem-ipsum-dolor-sit-amet.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/haberler/0
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\haberler\0.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/haberler/1
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\haberler\1.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/haberler/2
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\haberler\2.html
+Content Type: text/html
+
+Uri: https://www.leaderos.com.tr/
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\index-1.htm
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/extras/header-logo.png
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\extras\header-logo.png
+Content Type: image/png
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/extras/logo.png
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\extras\logo.png
+Content Type: image/png
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/loaders/slider.png
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\loaders\slider.png
+Content Type: image/png
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/loaders/news.png
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\loaders\news.png
+Content Type: image/png
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/loaders/head.png
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\loaders\head.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\ajax\libs\twitter-bootstrap\4.5.2\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/scrollup/2.4.1/jquery.scrollUp.min.js
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\ajax\libs\scrollup\2.4.1\jquery.scrollUp.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\ajax\libs\clipboard.js\2.0.6\clipboard.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/8.11.8/sweetalert2.min.js
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\ajax\libs\limonte-sweetalert2\8.11.8\sweetalert2.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/16.1.0/lazyload.min.js
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\ajax\libs\vanilla-lazyload\16.1.0\lazyload.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\ajax\libs\select2\4.0.13\js\select2.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/i18n/tr.min.js
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\ajax\libs\select2\4.0.13\js\i18n\tr.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jQuery.Marquee/1.5.0/jquery.marquee.min.js
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\ajax\libs\jQuery.Marquee\1.5.0\jquery.marquee.min.js
+Content Type: application/javascript
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/js/main.min.js?v=529
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/loaders/iframe.gif
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\loaders\iframe.gif
+Content Type: image/gif
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/extras/profile.png
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\extras\profile.png
+Content Type: image/png
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/extras/header-bg.png
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\extras\header-bg.png
+Content Type: image/png
+
+Uri: https://premium.leaderos.com.tr/magaza/factions
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\magaza\factions.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/magaza/sky-block
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\magaza\sky-block.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/magaza/pvp
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\magaza\pvp.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/magaza/mini-games
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\magaza\mini-games.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/loaders/server.png
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\loaders\server.png
+Content Type: image/png
+
+Uri: https://premium.leaderos.com.tr/oyun/sky-block
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\oyun\sky-block.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/oyun/egg-wars
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\oyun\egg-wars.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/oyun/sky-wars
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\oyun\sky-wars.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/oyun/bed-wars
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\oyun\bed-wars.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/siralama/factions
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\siralama\factions.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/oyuncu/demo
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\oyuncu\demo.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/oyuncu/LeaderOS
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\oyuncu\LeaderOS.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/js/loader.js?v=529
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\js\loader.js
+Content Type: application/javascript
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/js/leaderboards.js?v=529
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\js\leaderboards.js
+Content Type: application/javascript
+
+Uri: https://premium.leaderos.com.tr/indir/1/minecraft-1-8
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\indir\1\minecraft-1-8.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/indir/2/minecraft-1-9
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\indir\2\minecraft-1-9.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/sifremi-unuttum
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\sifremi-unuttum.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/kurallar
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\kurallar.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/etiket/merhaba
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\etiket\merhaba.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/etiket/lorem
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\etiket\lorem.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/etiket/ipsum
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\etiket\ipsum.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/emojis/3.png
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\emojis\3.png
+Content Type: image/png
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/emojis/2.png
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\emojis\2.png
+Content Type: image/png
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/emojis/1.png
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\emojis\1.png
+Content Type: image/png
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/emojis/5.png
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\emojis\5.png
+Content Type: image/png
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/emojis/6.png
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\emojis\6.png
+Content Type: image/png
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/emojis/7.png
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\emojis\7.png
+Content Type: image/png
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/emojis/9.png
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\emojis\9.png
+Content Type: image/png
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/emojis/10.png
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\emojis\10.png
+Content Type: image/png
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/emojis/11.png
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\emojis\11.png
+Content Type: image/png
+
+Uri: https://premium.leaderos.com.tr/kategori/guncelleme/0
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\kategori\guncelleme\0.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/kategori/guncelleme/1
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\kategori\guncelleme\1.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/kategori/guncelleme/2
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\kategori\guncelleme\2.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/uMSpGUe
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\invite\uMSpGUe.html
+Content Type: text/html
+
+Uri: https://api.whatsapp.com/send/?phone=905350000000&text&app_absent=0
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\send\index.htm
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/magaza/factions/esyalar
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\magaza\factions\esyalar.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/magaza/factions/anahtarlar
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\magaza\factions\anahtarlar.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/magaza/factions/oyun-parasi
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\magaza\factions\oyun-parasi.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/img/loaders/store.png
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\img\loaders\store.png
+Content Type: image/png
+
+Uri: https://premium.leaderos.com.tr/apps/main/public/assets/js/store.js?v=529
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\apps\main\public\assets\js\store.js
+Content Type: application/javascript
+
+Uri: https://premium.leaderos.com.tr/magaza/sky-block/bloklar
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\magaza\sky-block\bloklar.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/oyuncu/demo?siralama=factions
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\oyuncu\demo-1.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/oyuncu/LeaderOS?siralama=factions
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\oyuncu\LeaderOS-1.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/etiket/merhaba/0
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\etiket\merhaba\0.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/etiket/merhaba/1
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\etiket\merhaba\1.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/etiket/merhaba/2
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\etiket\merhaba\2.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/etiket/lorem/0
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\etiket\lorem\0.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/etiket/lorem/1
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\etiket\lorem\1.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/etiket/lorem/2
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\etiket\lorem\2.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/etiket/ipsum/0
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\etiket\ipsum\0.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/etiket/ipsum/1
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\etiket\ipsum\1.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/etiket/ipsum/2
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\etiket\ipsum\2.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/magaza/factions/kiliclar
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\magaza\factions\kiliclar.html
+Content Type: text/html
+
+Uri: https://premium.leaderos.com.tr/magaza/factions/zirhlar
+File Name: C:\Downloaded Web Sites\premium.leaderos.com.tr\magaza\factions\zirhlar.html
+Content Type: text/html
+

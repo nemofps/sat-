@@ -1,0 +1,476 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+	<head>
+		<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="Fırat KAYA">
+<link rel="shortcut icon" type="image/x-icon" href="apps/main/public/assets/img/extras/favicon.png">
+
+<title>LEADEROS - En İyi Sunucu!</title>
+
+<meta name="description" content="">
+<meta name="keywords" content="">
+<link rel="canonical" href="index.htm">
+<meta property="og:locale" content="tr_TR">
+<meta property="og:type" content="website">
+<meta property="og:title" content="LEADEROS - En İyi Sunucu!">
+<meta property="og:description" content="">
+<meta property="og:url" content="https://premium.leaderos.com.tr">
+<meta property="og:site_name" content="LEADEROS">
+
+<!-- MAIN -->
+<link rel="stylesheet" href="ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css">
+
+<!-- EXTRAS -->
+<link rel="stylesheet" href="ajax/libs/limonte-sweetalert2/8.11.8/sweetalert2.min.css">
+<link rel="stylesheet" href="ajax/libs/select2/4.0.13/css/select2.min.css">
+<link rel="stylesheet" href="npm/@ttskch/select2-bootstrap4-theme@1.4.0/dist/select2-bootstrap4.min.css">
+
+<!-- FONTS -->
+<link rel="stylesheet" href="ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- THEMES -->
+	<link rel="stylesheet" type="text/css" href="apps/main/public/assets/css/themes/flat/main.min.css?v=529">
+	<link rel="stylesheet" type="text/css" href="apps/main/public/assets/css/themes/flat/responsive.min.css?v=529">
+
+
+<!-- COLORS -->
+	<style type="text/css">
+							bodys {
+									background-color:#f8f8f8;							}
+					a {
+									color:#007bff;							}
+					a:active, a:hover, a:focus {
+									color:#0056b3;							}
+					.color-main {
+									color:#5e72e4;							}
+					.color-main:hover {
+									color:#324cdd;							}
+					.color-primary {
+									color:#5e72e4;							}
+					.color-primary:hover {
+									color:#324cdd;							}
+					.color-success {
+									color:#2dce89;							}
+					.color-success:hover {
+									color:#24a46d;							}
+					.color-danger {
+									color:#f5365c;							}
+					.color-danger:hover {
+									color:#ec0c38;							}
+					.color-warning {
+									color:#fb6340;							}
+					.color-warning:hover {
+									color:#fa3a0e;							}
+					.color-info {
+									color:#11cdef;							}
+					.color-info:hover {
+									color:#0da5c0;							}
+					.btn-primary, .badge-primary, .alert-primary, .bg-primary {
+									background-color:#5e72e4;							}
+					.btn-success, .badge-success, .alert-success, .bg-success {
+									background-color:#2dce89;							}
+					.btn-danger, .badge-danger, .alert-danger, .bg-danger {
+									background-color:#f5365c;							}
+					.btn-warning, .badge-warning, .alert-warning, .bg-warning {
+									background-color:#fb6340;							}
+					.btn-info, .badge-info, .alert-info, .bg-info {
+									background-color:#11cdef;							}
+					.text-primary {
+									color:#5e72e4 !important;							}
+					.text-success {
+									color:#2dce89 !important;							}
+					.text-danger {
+									color:#f5365c !important;							}
+					.text-warning {
+									color:#fb6340 !important;							}
+					.text-info {
+									color:#11cdef !important;							}
+					.btn-primary {
+									border-color:#5e72e4;							}
+					.btn-primary.active, .btn-primary:active, .btn-primary:hover, .btn-primary:focus {
+									border-color:#324cdd;									background-color:#324cdd;							}
+					.btn-success {
+									border-color:#2dce89;							}
+					.btn-success.active, .btn-success:active, .btn-success:hover, .btn-success:focus {
+									border-color:#24a46d;									background-color:#24a46d;							}
+					.btn-danger {
+									border-color:#f5365c;							}
+					.btn-danger.active, .btn-danger:active, .btn-danger:hover, .btn-danger:focus {
+									border-color:#ec0c38;									background-color:#ec0c38;							}
+					.btn-warning {
+									border-color:#fb6340;							}
+					.btn-warning.active, .btn-warning:active, .btn-warning:hover, .btn-warning:focus {
+									border-color:#fa3a0e;									background-color:#fa3a0e;							}
+					.btn-info {
+									border-color:#11cdef;							}
+					.btn-info.active, .btn-info:active, .btn-info:hover, .btn-info:focus {
+									border-color:#0da5c0;									background-color:#0da5c0;							}
+					.custom-control-input:checked~.custom-control-label::before {
+									border-color:#5e72e4;									background-color:#5e72e4;							}
+					.broadcast {
+									background-color:#232f3c;							}
+					.broadcast-link {
+									color:#ffffff !important;							}
+					.navbar-server {
+									color:#ffffff;									background-color:#f5365c;							}
+					.navbar-server.active {
+									background-color:#02b875;							}
+					.server-online-info {
+									color:#ffffff;									background-color:#f5365c;							}
+					.server-online-info.active {
+									background-color:#02b875;							}
+					.navbar-dark {
+									background-color:#273443;							}
+					.navbar-dark .navbar-nav .nav-link {
+									color:#ffffff !important;							}
+					.navbar-dark .navbar-nav .nav-item.active .nav-link, .navbar-dark .navbar-nav .nav-item:hover .nav-link, .navbar-dark .navbar-nav .nav-item:focus .nav-link {
+									color:#ffffff !important;									border-color:#5e72e4;									background-color:#5e72e4;							}
+					.navbar-dark .navbar-buttons .nav-item .nav-link {
+									border-color:#5e72e4;							}
+					.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+									border-color:#5e72e4;							}
+					.search-icon {
+									color:#ffffff;									background-color:#5e72e4;							}
+					.footer-top {
+									background-color:#273443;							}
+					.footer-top, .footer-top ul li a {
+									color:#a9aeb4;							}
+					.footer-bottom {
+									background-color:#232f3c;							}
+					.card-header:first-child, .modal-header {
+									background-color:#5e72e4;							}
+					.pagination .page-item.active .page-link, .pagination .page-item.active .page-link:hover {
+									border-color:#5e72e4;									background-color:#5e72e4;							}
+					.search-cancel:hover, .search-cancel:focus, .search-cancel:active {
+									color:#f5365c;							}
+					#preloader .spinner-border {
+									color:#5e72e4;							}
+					#scrollUp:hover {
+									background-color:#5e72e4;							}
+					.theme-color {
+									background-color:#5e72e4;							}
+					.theme-color.text-primary {
+									color:#5e72e4 !important;									background-color:transparent;							}
+					.theme-color.btn, .theme-color.badge {
+									border-color:#5e72e4;							}
+					.theme-color.btn.active, .theme-color.btn:active, .theme-color.btn:hover, .theme-color.btn:focus {
+									border-color:#324cdd;									background-color:#324cdd;							}
+			</style>
+
+<!-- CUSTOM CSS -->
+<style type="text/css">
+	</style>
+	</head>
+	<body style="overflow: auto;">
+		<style type="text/css">
+      @media all and (min-width: 992px) {
+      .navbar-dark .navbar-nav .nav-item {
+        margin: .375rem .125rem;
+      }
+    }
+  </style>
+        <ul class="broadcast">
+              <li class="broadcast-item">
+          <a class="broadcast-link" href="#">2X kredi etkinliği aktif!</a>
+        </li>
+              <li class="broadcast-item">
+          <a class="broadcast-link" href="#">Muhteşem indirimleri kaçırma!</a>
+        </li>
+          </ul>
+    <div class="header-banner">
+    <div class="container-fluid">
+      <div class="header-banner-content flex-lg-row flex-column">
+        <div class="d-flex flex-column order-lg-1 order-2 text-center text-uppercase mt-lg-0 mt-4">
+          <div>
+            <a href="#!" data-toggle="copyip" data-clipboard-action="copy" data-clipboard-text="play.sonhukumdar.com">
+              <span class="text-white">IP:</span>
+              <span class="text-yellow">play.sonhukumdar.com</span>
+            </a>
+          </div>
+          <div class="d-lg-block d-none my-3">
+            <button type="button" class="btn btn-info btn-rounded btn-header-ipcopy px-4" data-toggle="copyip" data-clipboard-action="copy" data-clipboard-text="play.sonhukumdar.com">
+              <i class="fa fa-gamepad mr-1"></i>
+              Tıkla ve Kopyala
+            </button>
+          </div>
+          <div>
+            <span class="text-yellow" data-toggle="onlinetext" server-ip="play.sonhukumdar.com">-/-</span>
+            <span class="text-white">kişi oynuyor!</span>
+          </div>
+        </div>
+        <div class="d-flex flex-column overflow-hidden order-lg-2 order-1">
+          <div class="zoom-hover text-center">
+            <a href="index.htm">
+              <img src="apps/main/public/assets/img/extras/header-logo.png" class="header-banner-logo" alt="LEADEROS Logo">
+            </a>
+          </div>
+        </div>
+                  <div class="d-lg-flex d-none flex-column order-3 text-center">
+            <div>
+              <span class="text-white">Muhteşem</span>
+              <span class="text-yellow">indirimleri</span>
+              <span class="text-white">kaçırma!</span>
+            </div>
+            <div class="my-3 mb-0">
+              <a class="btn btn-info btn-rounded btn-header-store px-5" href="magaza.html">
+                <i class="fa fa-shopping-cart mr-1"></i>
+                Mağaza
+              </a>
+            </div>
+            <div class="d-none">
+              <a href="/sepet">
+                <span class="text-white">Sepetinizde</span>
+                <span class="text-yellow">X</span>
+                <span class="text-white">ürün var</span>
+              </a>
+            </div>
+          </div>
+              </div>
+    </div>
+  </div>
+<header class="header sticky-top">
+  <nav class="navbar navbar-expand-lg navbar-dark shadow-none">
+    <div class="container-fluid">
+      <a class="navbar-brand image d-inline-block d-lg-none" href="index.htm">
+                  <img src="apps/main/public/assets/img/extras/logo.png" alt="LEADEROS Logo">
+              </a>
+      <button class="navbar-toggler p-0" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="navbar-collapse collapse justify-content-between align-items-center w-100" id="navbarSupportedContent">
+        <ul id="navbarMainContent" class="nav navbar-nav text-center  justify-content-between w-100">
+                                                                      <li class="nav-item ">
+                <a class="nav-link" href="index.htm"><i class="fa fa-home"></i> Ana Sayfa</a>
+              </li>
+                                                                                    <li class="nav-item ">
+                <a class="nav-link" href="magaza.html"><i class="fa fa-shopping-cart"></i> Mağaza</a>
+              </li>
+                                                                                    <li class="nav-item ">
+                <a class="nav-link" href="oyun.html"><i class="fa fa-gamepad"></i> Oyunlar</a>
+              </li>
+                                                                                    <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <i class="fa fa-try"></i> Kredi                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                      <a class="dropdown-item" href="giris-yap.html">Kredi Yükle</a>
+                                      <a class="dropdown-item" href="giris-yap.html">Kredi Gönder</a>
+                                  </div>
+              </li>
+                                                                                    <li class="nav-item ">
+                <a class="nav-link" href="giris-yap.html"><i class="fa fa-pie-chart"></i> Çarkıfelek</a>
+              </li>
+                                                                                    <li class="nav-item ">
+                <a class="nav-link" href="siralama/factions.html"><i class="fa fa-trophy"></i> Sıralama</a>
+              </li>
+                                                                                                              <li class="nav-item ">
+                <a class="nav-link" href="giris-yap.html"><i class="fa fa-life-ring"></i> Destek</a>
+              </li>
+                                                                                    <li class="nav-item ">
+                <a class="nav-link" href="indir/1/minecraft-1-8.html"><i class="fa fa-download"></i> İndir</a>
+              </li>
+                                                                      <li class="nav-item pc ">
+                <a class="nav-link" href="giris-yap.html">
+                  <i class="fa fa-sign-in"></i>
+                  Giriş Yap
+                </a>
+              </li>
+              <li class="nav-item pc active">
+                <a class="nav-link" href="kayit-ol.html">
+                  <i class="fa fa-user-plus"></i>
+                  Kayıt Ol
+                </a>
+              </li>
+                        <li class="nav-item mobil ">
+              <a class="nav-link" href="giris-yap.html">
+                <i class="fa fa-sign-in"></i>
+                <span>Giriş Yap</span>
+              </a>
+            </li>
+            <li class="nav-item mobil active">
+              <a class="nav-link" href="kayit-ol.html">
+                <i class="fa fa-user-plus"></i>
+                <span>Kayıt Ol</span>
+              </a>
+            </li>
+                                <li class="nav-item nav-search pc">
+              <a class="nav-link" href="#">
+                <form action="" method="post">
+                  <div class="searchbar">
+                    <input class="search-input" type="text" name="search" placeholder="Oyuncu Ara" autocomplete="off" required="required">
+                    <button type="submit" name="searchAccount" class="theme-color btn search-icon">
+                      <i class="fa fa-search"></i>
+                    </button>
+                  </div>
+                </form>
+              </a>
+            </li>
+                    <li class="nav-item mobil">
+            <a class="nav-link" href="#" style="background-color: transparent !important; border-color: transparent !important;">
+              <form action="" method="post">
+                <div class="input-group mb-2">
+                  <input type="text" name="search" placeholder="Oyuncu Ara" class="form-control" aria-label="Oyuncu Ara" aria-describedby="basic-addon2" required="required">
+                  <div class="input-group-append">
+                    <button type="submit" name="searchAccount" class="theme-color btn btn-primary">Ara</button>
+                  </div>
+                </div>
+              </form>
+            </a>
+          </li>
+        </ul>
+              </div>
+    </div>
+  </nav>
+  </header>
+
+<!-- Preloader -->
+		<main class="main" role="main">
+																<section class="section page-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 offset-md-4">
+                <div class="card">
+          <div class="card-header">
+            Kayıt Ol
+          </div>
+          <div class="card-body">
+            <form action="" method="post">
+              <div class="form-group">
+                <input type="text" class="form-control" name="username" placeholder="Kullanıcı Adı" value="">
+              </div>
+              <div class="form-group">
+                <input type="email" class="form-control" name="email" placeholder="Email Adresi" value="">
+              </div>
+              <div class="form-group">
+                <input type="password" class="form-control" name="password" placeholder="Şifre">
+              </div>
+              <div class="form-group">
+                <input type="password" class="form-control" name="passwordRe" placeholder="Şifre (Tekrar)">
+              </div>
+              <div class="form-group custom-control custom-checkbox">
+                <input type="checkbox" class="custom-control-input" id="acceptRules" name="acceptRules" checked="checked">
+                <label class="custom-control-label" for="acceptRules">
+                  <a href="kurallar.html" rel="external">Kuralları</a> okudum ve kabul ediyorum.
+                </label>
+              </div>
+                            <input type="hidden" name="csrf-token" value="51b162378c37f1fa8f490a472f145bf439510bd5d515ac1198a75e00e9e3634c">              <button type="submit" class="theme-color btn btn-primary w-100" name="insertAccounts">Kayıt Ol</button>
+            </form>
+          </div>
+          <div class="card-footer text-center">
+            Hesabınız mı var?
+            <a href="giris-yap.html">Giriş Yap</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+									</main>
+		<footer class="footer">
+  <div class="footer-top">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5 mb-5 mb-md-0">
+          <h5 class="footer-title">Hakkımızda</h5>
+          <p class="mb-0">
+                          LeaderOS V5 4 yıldır geliştirilen ve bize güvenen onlarca müşteriye sahip bir Minecraft Web Site scriptidir. Her zaman yenilikçi tasarım ve teknolojiler kullanarak onlarca müşterimizin sunucu yönetimini kolaylaştırıyoruz.                      </p>
+        </div>
+        <div class="col-6 col-md-2">
+          <h5 class="footer-title">Hızlı Menü</h5>
+          <ul class="list-unstyled mb-0">
+            <li class="mb-2">
+              <a href="index.htm">Ana Sayfa</a>
+            </li>
+            <li class="mb-2">
+              <a href="magaza.html">Mağaza</a>
+            </li>
+            <li class="mb-2">
+              <a href="giris-yap.html">Kredi Yükle</a>
+            </li>
+                          <li class="mb-2">
+                <a href="giris-yap.html">Giriş Yap</a>
+              </li>
+              <li class="mb-2">
+                <a href="kayit-ol.html">Kayıt Ol</a>
+              </li>
+                      </ul>
+        </div>
+        <div class="col-6 col-md-2">
+          <h5 class="footer-title">Sosyal Medya</h5>
+          <ul class="list-unstyled mb-0">
+                                          <li class="mb-2">
+                  <a href="#" rel="external">
+                    <i class="fa fa-facebook-square text-white mr-1"></i> Facebook
+                  </a>
+                </li>
+                                            <li class="mb-2">
+                  <a href="#" rel="external">
+                    <i class="fa fa-twitter text-white mr-1"></i> Twitter
+                  </a>
+                </li>
+                                            <li class="mb-2">
+                  <a href="#" rel="external">
+                    <i class="fa fa-instagram text-white mr-1"></i> Instagram
+                  </a>
+                </li>
+                                                          <li class="mb-2">
+                  <a href="invite/uMSpGUe.html" rel="external">
+                    <i class="fa fa-gamepad text-white mr-1"></i> Discord
+                  </a>
+                </li>
+                                    </ul>
+        </div>
+        <div class="col-md-3 mt-5 mt-md-0">
+          <h5 class="footer-title">İletişim</h5>
+          <ul class="list-unstyled mb-0">
+                                          <li class="mb-2">
+                  <a href="mailto:info@leaderos.com.tr" rel="external">
+                    <i class="fa fa-envelope text-white mr-1"></i> info@leaderos.com.tr                  </a>
+                </li>
+                                            <li class="mb-2">
+                  <a href="tel:+90 535 000 00 00" rel="external">
+                    <i class="fa fa-phone text-white mr-1"></i> +90 535 000 00 00                  </a>
+                </li>
+                                            <li class="mb-2">
+                  <a href="send/index.htm" rel="external">
+                    <i class="fa fa-whatsapp text-white mr-1"></i> +90 535 000 00 00                  </a>
+                </li>
+                                    </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-md text-center text-md-left mb-2 mb-md-0">
+          Tüm hakları saklıdır &copy; 2021        </div>
+        <div class="col-12 col-md-auto text-center text-md-left">
+          <copyright data-toggle="tooltip" data-placement="top" title="Yazılım: FIRAT KAYA">
+            <a href="index-1.htm" rel="external">
+              LEADEROS v5.2.9            </a>
+          </copyright>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+		<script src="ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+<script src="ajax/libs/scrollup/2.4.1/jquery.scrollUp.min.js"></script>
+<script src="ajax/libs/clipboard.js/2.0.6/clipboard.min.js"></script>
+<script src="ajax/libs/limonte-sweetalert2/8.11.8/sweetalert2.min.js"></script>
+<script src="ajax/libs/vanilla-lazyload/16.1.0/lazyload.min.js"></script>
+<script src="ajax/libs/select2/4.0.13/js/select2.min.js"></script>
+<script src="ajax/libs/select2/4.0.13/js/i18n/tr.min.js"></script>
+  <script src="ajax/libs/jQuery.Marquee/1.5.0/jquery.marquee.min.js"></script>
+<script type="text/javascript">
+  var $onlineAPI = 1;
+  var $preloaderStatus = 'false';
+</script>
+<script src="apps/main/public/assets/js/main.min.js?v=529"></script>
+
+
+	</body>
+</html>
